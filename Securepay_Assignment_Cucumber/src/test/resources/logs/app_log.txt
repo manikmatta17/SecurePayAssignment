@@ -1,0 +1,3 @@
+INFO    2020-03-04 12:07:56,010 [main] Test_Steps  - OR Properties file loaded !!!
+INFO    2020-03-04 12:07:56,012 [main] Test_Steps  - Config Properties file loaded !!!
+INFO    2020-03-04 12:08:20,087 [main] Test_Steps  - actual Title isContact Us – SecurePay – Sales – Support – Accounts
