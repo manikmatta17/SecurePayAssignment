@@ -1,3 +1,0 @@
-INFO    2020-03-04 00:21:21,864 [main] SecurePay  - OR Properties file loaded !!!
-INFO    2020-03-04 00:21:21,866 [main] SecurePay  - Config Properties file loaded !!!
-INFO    2020-03-04 00:21:43,410 [main] SecurePay  - actual Title isContact Us – SecurePay – Sales – Support – Accounts
